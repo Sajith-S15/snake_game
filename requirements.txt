@@ -66,3 +66,5 @@ virtualenv==20.17.1
 wcwidth==0.2.6
 Werkzeug==2.3.6
 whitenoise==6.2.0
+pygame==2.1.2
+
